@@ -26,5 +26,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioives//)](https://www.linkedin.com/in/flavioives/)
 [![Gmail Badge](https://img.shields.io/badge/flavioives23@gmail.com-3f4961?style=flat-square&labelColor=3f4961&logo=Gmail&logoColor=white&link=mailto:flavioives23@gmail.com)](mailto:flavioives230@gmail.com)
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/flaviomunck/flaviomunck/blob/output/github-contribution-grid-snake.svg)
 
