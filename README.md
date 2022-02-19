@@ -19,7 +19,7 @@
 
 ##
 <img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api?username=flaviomunck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomunck&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomunck&layout=compact&langs_count=7&theme=github_dark">
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/flavioives)](https://github.com/flavioives)
