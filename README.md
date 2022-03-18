@@ -1,7 +1,7 @@
 <h2><img src="https://cdn.discordapp.com/attachments/756726641782423652/942485767920435250/Dtl.gif" width="80"><b> Hi, I'm Flavio Munck!</b></h2>
 <hr>
 
-<p> 🏴󠁣󠁬󠁡󠁩󠁿 Learning Data Science and Machine Learning</p>
+<p> 🏴󠁣󠁬󠁡󠁩󠁿 Learning Develop, Cybersecurity and Machine Learning</p>
 <p> 🎮 I like play and code games in free time</>
 <p> ♟️ “There is no wealth like knowledge, no poverty like ignorance.” — Buddha </p>
 <p> 🌌 Pronous: He/His </p>
@@ -13,8 +13,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"></code>
 
 
 ##
