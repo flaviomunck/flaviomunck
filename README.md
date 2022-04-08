@@ -1,7 +1,7 @@
 <h2><img src="https://cdn.discordapp.com/attachments/756726641782423652/942485767920435250/Dtl.gif" width="80"><b> Hi, I'm Flavio Munck!</b></h2>
 <hr>
 
-<p> 🏴󠁣󠁬󠁡󠁩󠁿 Learning Software Develop and Cybersecurity</p>
+<p> 🏴󠁣󠁬󠁡󠁩󠁿 Learning Software Engineer and Cybersecurity</p>
 <p> 🎮 I like play and code games in free time</>
 <p> ♟️ “There is no wealth like knowledge, no poverty like ignorance.” — Buddha </p>
 <p> 🌌 Pronous: He/His </p>
