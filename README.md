@@ -8,6 +8,7 @@
 
 <p>languages and tools:</p>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
