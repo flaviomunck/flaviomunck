@@ -15,9 +15,9 @@
 
 
 ##
-<img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api?username=flaviomunck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomunck&layout=compact&langs_count=7&theme=github_dark">
-##
+<img height="180" img align = "center" src="https://github-readme-stats.vercel.app/api?username=flaviomunck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180" img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomunck&layout=compact&langs_count=7&theme=github_dark">
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/flaviomunck)](https://github.com/flaviomunck)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviomunck/)](https://www.linkedin.com/in/flaviomunck/)
