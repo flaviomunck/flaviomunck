@@ -7,17 +7,17 @@
 
 
 <p>languages and tools:</p>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
 
 
 ##
 <img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api?username=flaviomunck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomunck&layout=compact&langs_count=7&theme=github_dark">
-
+##
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/flaviomunck)](https://github.com/flaviomunck)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviomunck/)](https://www.linkedin.com/in/flaviomunck/)
