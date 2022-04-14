@@ -17,7 +17,7 @@
 ## 
 <div align="center">
   <a href="https://github.com/flaviomunck">
-  <img height="180" img align = "center" src="https://github-readme-stats.vercel.app/api?username=flaviomunck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180" img align = "center" src="https://github-readme-stats.vercel.app/api?username=flaviomunck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="180" img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomunck&layout=compact&langs_count=7&theme=github_dark">
     </div>
 
